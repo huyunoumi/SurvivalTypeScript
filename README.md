@@ -4,6 +4,7 @@
 
 # ローカル環境
 1. `npm run dev`
+2. `Ctrl + C`で終了
 
 # プロダクションビルド
 1. `npm run build`
